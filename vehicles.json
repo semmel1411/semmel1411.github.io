@@ -2,327 +2,392 @@
  {
   "vehicle_type": 0,
   "name": "lf20",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 1,
   "name": "lf10",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 2,
   "name": "dlk23",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 3,
   "name": "elw1",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 4,
   "name": "rw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 5,
   "name": "gwa",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 6,
   "name": "lf86",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 7,
   "name": "lf2016",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 8,
   "name": "lf106",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 9,
   "name": "lf16ts",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 10,
   "name": "gwol",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 11,
   "name": "gwl2wasser",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 12,
   "name": "gwmesstechnik",
-  "ausbildung": "[\"gw_messtechnik\"]"
+  "ausbildung": "[\"gw_messtechnik\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 13,
   "name": "sw1000",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 14,
   "name": "sw2000",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 15,
   "name": "sw2000tr",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 16,
   "name": "swkats",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 17,
   "name": "tlf2000",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 18,
   "name": "tlf3000",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 19,
   "name": "tlf818",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 20,
   "name": "tlf818",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 21,
   "name": "tlf1624tr",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 22,
   "name": "tlf1625",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 23,
   "name": "tlf1645",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 24,
   "name": "tlf2040",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 25,
   "name": "tlf2040sl",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 26,
   "name": "tlf16",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 27,
   "name": "gwgefahrgut",
-  "ausbildung": "[\"gw_gefahrgut\"]"
+  "ausbildung": "[\"gw_gefahrgut\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 28,
   "name": "rtw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 29,
   "name": "nef",
-  "ausbildung": "[\"notarzt\"]"
+  "ausbildung": "[\"notarzt\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 30,
   "name": "hlf20",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 31,
   "name": "rth",
-  "ausbildung": "[\"notarzt\"]"
+  "ausbildung": "[\"notarzt\"]",
+  "max_personnel": 1
  },
  {
   "vehicle_type": 32,
   "name": "fustw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 33,
   "name": "gwhohenrettung",
-  "ausbildung": "[\"gw_hoehenrettung\"]"
+  "ausbildung": "[\"gw_hoehenrettung\"]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 34,
   "name": "elw2",
-  "ausbildung": "[\"elw2\"]"
+  "ausbildung": "[\"elw2\"]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 35,
   "name": "lebefkw",
-  "ausbildung": "[\"police_einsatzleiter\"]"
+  "ausbildung": "[\"police_einsatzleiter\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 36,
   "name": "mtw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 37,
   "name": "tsfw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 38,
   "name": "ktw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 39,
   "name": "gkw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 40,
   "name": "mtwtz",
-  "ausbildung": "[\"thw_zugtrupp\"]"
+  "ausbildung": "[\"thw_zugtrupp\"]",
+  "max_personnel": 4
  },
  {
   "vehicle_type": 41,
   "name": "mzkw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 42,
   "name": "lkwk9",
-  "ausbildung": "[\"thw_raumen\"]"
+  "ausbildung": "[\"thw_raumen\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 43,
   "name": "brmgr",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 44,
   "name": "anhdle",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 45,
   "name": "mlw5",
-  "ausbildung": "[\"thw_raumen\"]"
+  "ausbildung": "[\"thw_raumen\"]",
+  "max_personnel": 4
  },
  {
   "vehicle_type": 46,
   "name": "wlf",
-  "ausbildung": "[\"wechsellader\"]"
+  "ausbildung": "[\"wechsellader\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 47,
   "name": "abrust",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 48,
   "name": "abatemschutz",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 49,
   "name": "abol",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 50,
   "name": "grukw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 51,
   "name": "fukw",
-  "ausbildung": "[\"police_fukw\"]"
+  "ausbildung": "[\"police_fukw\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 52,
   "name": "gefkw",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 53,
   "name": "dekonp",
-  "ausbildung": "[\"dekon_p\"]"
+  "ausbildung": "[\"dekon_p\"]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 54,
   "name": "abdekonp",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 55,
   "name": "kdowlna",
-  "ausbildung": "[\"lna\"]"
+  "ausbildung": "[\"lna\"]",
+  "max_personnel": 1
  },
  {
   "vehicle_type": 56,
   "name": "kdoworgl",
-  "ausbildung": "[\"orgl\"]"
+  "ausbildung": "[\"orgl\"]",
+  "max_personnel": 1
  },
  {
   "vehicle_type": 57,
   "name": "fwk",
-  "ausbildung": "[\"fwk\"]"
+  "ausbildung": "[\"fwk\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 58,
   "name": "ktwtybb",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 59,
   "name": "elw1seg",
-  "ausbildung": "[\"seg_elw\"]"
+  "ausbildung": "[\"seg_elw\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 60,
   "name": "gwsan",
-  "ausbildung": "[\"seg_gw_san\"]"
+  "ausbildung": "[\"seg_gw_san\"]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 61,
   "name": "polizeihubschrauber",
-  "ausbildung": "[\"polizeihubschrauber\"]"
+  "ausbildung": "[\"polizeihubschrauber\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 62,
   "name": "abschlauch",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 63,
   "name": "gwtaucher",
-  "ausbildung": "[gw_taucher\"]"
+  "ausbildung": "[gw_taucher\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 64,
   "name": "gwwasserrettung",
-  "ausbildung": "[\"gw_wasserrettung\"]"
+  "ausbildung": "[\"gw_wasserrettung\"]",
+  "max_personnel": 6
  },
  {
   "vehicle_type": 65
@@ -342,7 +407,8 @@
  {
   "vehicle_type": 70,
   "name": "mzb",
-  "ausbildung": "[]"
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 71
@@ -350,7 +416,8 @@
  {
   "vehicle_type": 72,
   "name": "wawe10",
-  "ausbildung": "[\"police_wasserwerfer\"]"
+  "ausbildung": "[\"police_wasserwerfer\"]",
+  "max_personnel": 5
  },
  {
   "vehicle_type": 73
@@ -358,17 +425,20 @@
  {
   "vehicle_type": 74,
   "name": "naw",
-  "ausbildung": "[\"notarzt\"]"
+  "ausbildung": "[\"notarzt\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 75,
   "name": "flf",
-  "ausbildung": "[\"arff\"]"
+  "ausbildung": "[\"arff\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 76,
   "name": "rettungstreppe",
-  "ausbildung": "[\"rettungstreppe\"]"
+  "ausbildung": "[\"rettungstreppe\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 77
@@ -379,39 +449,49 @@
  {
   "vehicle_type": 79,
   "name": "sekzf",
-  "ausbildung": "[\"police_sek\"]"
+  "ausbildung": "[\"police_sek\"]",
+  "max_personnel": 4
  },
  {
   "vehicle_type": 80,
   "name": "sekmtf",
-  "ausbildung": "[\"police_sek\"]"
+  "ausbildung": "[\"police_sek\"]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 81,
   "name": "mekzf",
-  "ausbildung": "[\"police_mek\"]"
+  "ausbildung": "[\"police_mek\"]",
+  "max_personnel": 4
  },
  {
   "vehicle_type": 82,
   "name": "mekmtf",
-  "ausbildung": "[\"police_mek\"]"
+  "ausbildung": "[\"police_mek\"]",
+  "max_personnel": 9
  },
  {
   "vehicle_type": 83,
-  "name": "gwwerkfeuerwehr"
+  "name": "gwwerkfeuerwehr",
+  "max_personnel": 9
  },
  {
-  "vehicle_type": 84
+  "vehicle_type": 84,
+  "name": "ulfmitloscharm",
+  "ausbildung": "[\"werkfeuerwehr\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 85,
   "name": "tm50",
-  "ausbildung": "[\"werkfeuerwehr\"]"
+  "ausbildung": "[\"werkfeuerwehr\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 86,
   "name": "turboloscher",
-  "ausbildung": "[\"werkfeuerwehr\"]"
+  "ausbildung": "[\"werkfeuerwehr\"]",
+  "max_personnel": 3
  },
  {
   "vehicle_type": 87
@@ -427,6 +507,7 @@
  },
  {
   "vehicle_type": 91,
-  "name": "rettungshundefahrzeug"
+  "name": "rettungshundefahrzeug",
+  "max_personnel": 5
  }
 ]
