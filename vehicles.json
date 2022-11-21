@@ -473,6 +473,7 @@
  {
   "vehicle_type": 83,
   "name": "gwwerkfeuerwehr",
+  "ausbildung": "[\"werkfeuerwehr\"]",
   "max_personnel": 9
  },
  {
@@ -508,6 +509,7 @@
  {
   "vehicle_type": 91,
   "name": "rettungshundefahrzeug",
+  "ausbildung": "[\"seg_rescue_dogs\"]",
   "max_personnel": 5
  }
 ]
