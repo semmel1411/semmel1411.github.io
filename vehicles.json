@@ -511,5 +511,44 @@
   "name": "rettungshundefahrzeug",
   "ausbildung": "[\"seg_rescue_dogs\"]",
   "max_personnel": 5
+ },
+ {
+  "vehicle_type": 92
+ },
+ {
+  "vehicle_type": 93
+ },
+ {
+  "vehicle_type": 94
+ },
+ {
+  "vehicle_type": 95
+ },
+ {
+  "vehicle_type": 96
+ },
+ {
+  "vehicle_type": 97
+ },
+ {
+  "vehicle_type": 98
+ },
+ {
+  "vehicle_type": 99
+ },
+ {
+  "vehicle_type": 100
+ },
+ {
+  "vehicle_type": 101
+ },
+ {
+  "vehicle_type": 102
+ },
+ {
+  "vehicle_type": 103,
+  "name": "fustwdgl",
+  "ausbildung": "[\"police_service_group_leader\"]",
+  "max_personnel": 2
  }
 ]
