@@ -519,7 +519,10 @@
   "vehicle_type": 93
  },
  {
-  "vehicle_type": 94
+  "vehicle_type": 94,
+  "name": "dhufukw",
+  "ausbildung": "[\"k9\"]",
+  "max_personnel": 2
  },
  {
   "vehicle_type": 95
@@ -531,19 +534,34 @@
   "vehicle_type": 97
  },
  {
-  "vehicle_type": 98
+  "vehicle_type": 98,
+  "name": "zivilstreifenwagen",
+  "ausbildung": "[\"criminal_investigation\"]",
+  "max_personnel": 2
  },
  {
-  "vehicle_type": 99
+  "vehicle_type": 99,
+  "name": "lkw7lbw",
+  "ausbildung": "[\"water_damage_pump\"]",
+  "max_personnel": 3
  },
  {
-  "vehicle_type": 100
+  "vehicle_type": 100,
+  "name": "mlw4",
+  "ausbildung": "[\"water_damage_pump\"]",
+  "max_personnel": 7
  },
  {
-  "vehicle_type": 101
+  "vehicle_type": 101,
+  "name": "anhswpu",
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
-  "vehicle_type": 102
+  "vehicle_type": 102,
+  "name": "anh7",
+  "ausbildung": "[]",
+  "max_personnel": 0
  },
  {
   "vehicle_type": 103,
