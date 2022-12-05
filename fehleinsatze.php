@@ -1,6 +1,6 @@
 <?php
 
-header("Access-Control-Allow-Origin: https://www.leitstellenspiel.de");
+header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Methods: GET, POST');
 
 function writeData($sData, $sFilePath) {
